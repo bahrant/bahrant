@@ -2,9 +2,11 @@
 
 I design systems that collect, interpret, and act on real-world data from rocket avionics and drone platforms to biometric research infrastructure.
 ----------------------------------------------------------------------------
+🚀 About Me: 
 
-🚀 About Me: I’m a Computer Science student at California State University, Sacramento, graduating 2026, with professional experience in embedded systems engineering and research software development.
+I’m a Computer Science student at California State University, Sacramento, graduating 2026, with professional experience in embedded systems engineering and research software development.
 Most of my projects exist in the realm of embedded engineering, aerospace, and applied research infrastructure. 
+
 ----------------------------------------------------------------------------
 🛠 Technical Domains:
 * Embedded Systems
@@ -20,8 +22,7 @@ Most of my projects exist in the realm of embedded engineering, aerospace, and a
 * Data standardization pipelines
 * Human-subject monitoring systems
 
-🔧 Projects 
-
+🔧 Projects:
 🚀 Avionics Lead — Hornet Aerospace
 * Leading development of embedded flight software and PCBs
 * Designed fault-tolerant sensing architecture for Mach-class rocket flight
@@ -29,7 +30,7 @@ Most of my projects exist in the realm of embedded engineering, aerospace, and a
 * Developed validation and test procedures for launch reliability
 * System scheduled for live flight deployment 🔗 https://github.com/Hornet-AeroSpace
 
-🧠 Cohort Stress Monitoring & Research Data Pipeline
+🧠 Cohort Stress Monitoring & Research Data Pipeline: 
 * Built a system enabling researchers to monitor stress dynamics across cohorts of 20+ students using wearable biometric devices.
  System Goals:
     * Convert raw wearable sensor output into analysis-ready datasets
