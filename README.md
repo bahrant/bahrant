@@ -1,4 +1,4 @@
-👋 Hi, I'm Bahran Temesgen Embedded Systems Engineer | Computer Scientist | Aerospace Enthusiast
+👋 Hi, I'm Bahran Temesgen Embedded Systems Engineer & SWE | Aerospace Enthusiast
 
 I design systems that collect, interpret, and act on real-world data from rocket avionics and drone platforms to biometric research infrastructure.
 ----------------------------------------------------------------------------
