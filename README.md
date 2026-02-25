@@ -1,11 +1,12 @@
 👋 Hi, I'm Bahran Temesgen Embedded Systems Engineer & SWE | Aerospace Enthusiast
 
-I design systems that collect, interpret, and act on real-world data from rocket avionics and drone platforms to biometric research infrastructure.
+I design systems that collect, interpret, and act on real-world data. From rocket avionics and general-purpose flight computers, to research & data aqusition pipleines.
+
 ----------------------------------------------------------------------------
 🚀 About Me: 
 
 I’m a Computer Science student at California State University, Sacramento, graduating 2026, with professional experience in embedded systems engineering and research software development.
-Most of my projects exist in the realm of embedded engineering, aerospace, and applied research infrastructure. 
+Most of my projects exist in the realm of embedded software engineering, aerospace, and applied research. 
 
 ----------------------------------------------------------------------------
 🛠 Technical Domains:
